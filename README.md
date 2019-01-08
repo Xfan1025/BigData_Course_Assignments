@@ -10,4 +10,4 @@ For fellow coursera learners who are browsing this repo, please obey Coursera Ho
     * Assignment1: [Count word pairs](https://github.com/Xfan1025/BigData_Course_Assignments/blob/master/wk5_Spark/A1%20-%20Find%20Count%20of%20Word%20Pairs.ipynb) - Done.
     * Honor Track Assignment2: [Collocations](https://github.com/Xfan1025/BigData_Course_Assignments/blob/master/wk5_Spark/A2%20-%20Collocations.ipynb) - Partially done.
   * Wk6: Application
-    * Assignment: Reconstructing the path - onging
+    * Assignment: [TF-IDF(Compute the Term Frequency and Inverse Document Frequency)](https://github.com/Xfan1025/BigData_Course_Assignments/blob/master/wk6_applications/Assignment%20-%20Term%20Frequency%20and%20Inverse%20Document%20Frequency.ipynb) - Done.
